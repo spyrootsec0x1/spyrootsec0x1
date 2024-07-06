@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👾
+
+## About Me
+
+I'm Orcun (spyrootsec), and I've been involved in cybersecurity for over 4 years, primarily focusing on Pentesting and Vulnerability Research. My research predominantly centers around Zerodium's targets. I conduct thorough analyses to identify and mitigate security vulnerabilities, and I also develop new methodologies. My aim is to improve cybersecurity and contribute to the security community by researching and addressing potential threats.
+
  [![HackTheBox](https://img.shields.io/badge/hackthebox-%23000F.svg?logo=hackthebox&logoColor=green)](https://app.hackthebox.com/users/1545086)  [![HackerOne](https://img.shields.io/badge/hackerone-%23000F.svg?logo=hackerone&logoColor=white)](https://hackerone.com/spyroot_sec) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___orcun___) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spyroot_sec) [![](https://visitor-badge.laobi.icu/badge?page_id=spyrootsec0x1.spyrootsec0x1)](#)
  
 ### 💻  Stack:
